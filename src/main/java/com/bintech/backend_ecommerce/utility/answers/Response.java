@@ -1,4 +1,4 @@
-package com.bintech.backend_ecommerce.utility;
+package com.bintech.backend_ecommerce.utility.answers;
 
 /**
  * Clase para el manejo de las respuestas de la API
