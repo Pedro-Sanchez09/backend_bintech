@@ -252,6 +252,7 @@ public class ProductoController {
      * @param producto   Recibe objeto Producto
      * @return Devuelve true o false
      */
+    /*
     @PutMapping("/productos/{id}/imagen")
     public ResponseEntity<Response> updateImagenByProducto(@PathVariable("id") Long
                                                                    idProducto, @RequestBody Producto producto) {
@@ -268,5 +269,5 @@ public class ProductoController {
             getErrorMessageInternal(exception);
         }
         return new ResponseEntity(response, httpStatus);
-    }
+    }*/
 }
